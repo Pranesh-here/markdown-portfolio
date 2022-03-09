@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+music
+travel
+friends
+badminton
+cricket
+volleyball
